@@ -2,7 +2,7 @@ import XCTest
 import Codewars
 @testable import Codewars
 
-class SolutionTest: XCTestCase {
+class GoodVsEvilTests: XCTestCase {
     var goodVsEvil: GoodVsEvil!
     
     override func setUp() {
